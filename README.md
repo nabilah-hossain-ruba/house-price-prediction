@@ -99,4 +99,4 @@ Python · pandas · NumPy · scikit-learn (Pipeline, ColumnTransformer, Ridge, M
 
 ---
 
-*Built for CSE422 (Artificial Intelligence) at BRAC University.*
+*Course project for CSE422 at BRAC University.*
